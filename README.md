@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nmete
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning backend with nodejs,express,API
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning backend with spring boot, java
 - 📫 reach me at nehamete21@gmail.com
 
 <!---
